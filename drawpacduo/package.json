@@ -1,0 +1,15 @@
+{
+  "name": "drawpacduo",
+  "version": "1.0.0",
+  "description": "React web app for drawpackduo",
+  "author": "SumanPokharel <sumanpok9@gmail.com> (sumanpokharel9.com.np)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamsumanp/CodeReel.git"
+  },
+  "homepage": "https://github.com/iamsumanp/CodeReel/tree/main/drawpacduo",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
